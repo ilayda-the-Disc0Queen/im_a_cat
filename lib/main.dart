@@ -23,7 +23,7 @@ void main() {
                 child: Image.asset(
               'images/Cat-Instagram.jpg',
             )),
-            Text("Gosh dang it, they're so cute!!!!"),
+            Text("Gosh dang it, they're so cute!!!"),
             Expanded(
                 child: Image.asset(
               'images/kitty_teeth.jpg',
